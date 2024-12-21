@@ -1,4 +1,4 @@
-# 🚀 Credit Card Fraud Detection System
+#  🕵️‍♂️ Credit Card Fraud Detection System
 
 This project focuses on building a machine learning model to detect fraudulent credit card transactions. The dataset used is publicly available and contains anonymized data from credit card transactions. The goal is to create a system that can predict whether a transaction is fraudulent or not based on the given features.
 
