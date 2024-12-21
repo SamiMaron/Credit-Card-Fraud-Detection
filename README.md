@@ -10,35 +10,6 @@ The project includes the following key components:
 3. **Data Visualization:** Visualizing data distributions and insights using **Seaborn** and **Matplotlib**.
 4. **Web Interface:** Building an interactive **Dash** application for visualizing the data and making real-time fraud predictions using a **Flask API**.
 
-## 🚀 How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
-
-2. Navigate to the project directory:
-
-```bash
-cd credit-card-fraud-detection
-
-3. Install the necessary libraries:
-
-```bash
-pip install -r requirements.txt
-
-4. Run the Flask API for real-time fraud detection:
-
-```bash
-python app.py
-
-5. To run the Dash Web Interface, run:
-```bash
-python dash_app.py
-
-6. Open your browser and visit http://127.0.0.1:5000 for the Flask API and http://127.0.0.1:8050 for the Dash Web Interface.
-
-
 ## 🛠️ Technologies Used
 
 - **Python**: Main programming language
@@ -80,3 +51,31 @@ The project includes an interactive web interface built with **Dash** to visuali
 - Upload a CSV file of transactions for fraud detection
 - Visualize transaction distributions and model performance metrics
 - Real-time fraud detection for uploaded transaction
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/credit-card-fraud-detection.git
+
+2. Navigate to the project directory:
+
+```bash
+cd credit-card-fraud-detection
+
+3. Install the necessary libraries:
+
+```bash
+pip install -r requirements.txt
+
+4. Run the Flask API for real-time fraud detection:
+
+```bash
+python app.py
+
+5. To run the Dash Web Interface, run:
+```bash
+python dash_app.py
+
+6. Open your browser and visit http://127.0.0.1:5000 for the Flask API and http://127.0.0.1:8050 for the Dash Web Interface.
