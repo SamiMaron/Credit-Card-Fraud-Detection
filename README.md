@@ -56,27 +56,18 @@ The project includes an interactive web interface built with **Dash** to visuali
 
 ```bash
 1. Clone the repository:
-
-```bash
 git clone https://github.com/yourusername/credit-card-fraud-detection.git
 
 2. Navigate to the project directory:
-
-```bash
 cd credit-card-fraud-detection
 
 3. Install the necessary libraries:
-
-```bash
 pip install -r requirements.txt
 
 4. Run the Flask API for real-time fraud detection:
-
-```bash
 python app.py
 
 5. To run the Dash Web Interface, run:
-```bash
 python dash_app.py
 
 6. Open your browser and visit http://127.0.0.1:5000 for the Flask API and http://127.0.0.1:8050 for the Dash Web Interface.
