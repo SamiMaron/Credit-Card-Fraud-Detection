@@ -54,6 +54,7 @@ The project includes an interactive web interface built with **Dash** to visuali
 
 ## 🚀 How to Run
 
+```bash
 1. Clone the repository:
 
 ```bash
